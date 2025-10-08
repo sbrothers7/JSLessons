@@ -5,10 +5,10 @@
 - Learn about some prerequisite computer science knowledge
 <br><br>
 ## 01 What Is a Development Environment?
-A development environment is a set of software tools for developers to build, test, and <ins>debug</ins> their software. An integrated development environment (IDE) is software (typically a <ins>GUI</ins> application) that helps create and manage dev envs that contain (almost always) a <ins>source code editor</ins> and <ins>build</ins> automation tools, and a <ins>debugger</ins> at the least. Some IDEs are specialized for a certain language.
+A development environment is a set of software tools for developers to build, test, and <ins>debug</ins> their software. An integrated development environment (IDE) is software (typically a <ins>GUI</ins> application) that helps create and manage dev envs that contain (almost always) a <ins>source code editor</ins>, <ins>build</ins> automation tools, and a <ins>debugger</ins> at the least. Some IDEs are specialized for a certain language.
 
 ### Definitions
-**Debug:** A "bug" in programming refers to errors (typically). We will go over the different types of errors and how to interpret them in the next section.
+**Debug:** A "bug" in programming refers to errors (typically). Therefore to de-bug something, one must get rid of the bugs. We will go over the different types of errors and how to interpret them in the next section.
 
 **GUI:** An acronym for Graphical User Interface. A user interface (UI) is any sort of medium that allows a user to manipulate a program. Using the mouse to click on elements (like buttons) on a screen is a key characteristic of GUI based programs. Typically, GUI programs are easier to use for the average person compared to older methods like CLI (Command Line Interface). MSDOS is an example of a collection of CLI software. 
 
