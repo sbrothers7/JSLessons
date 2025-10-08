@@ -1,3 +1,6 @@
+> [!Warning]
+> This project is currently incomplete!
+
 # Learn Javascript On Your Own
 > [!Note]
 > This repository is meant for beginners who are completely new to computer science.
